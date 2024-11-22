@@ -32,19 +32,6 @@ Matplotlib, Seaborn for data visualization
 📈 Key Takeaways
 Grouped customers based on their purchasing patterns and preferences.
 Identified actionable strategies for improving customer retention and sales.
-🔗 Get Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/customer-segmentation-clustering.git  
-Install the required libraries:
-bash
-Copy code
-pip install -r requirements.txt  
-Open and run the Jupyter Notebook to explore the analysis:
-bash
-Copy code
-jupyter notebook customer-segmentation-clustering.ipynb  
 ✅ Conclusion
 This project demonstrates the power of clustering in customer segmentation. By grouping customers based on their behavior, businesses can make data-driven decisions to enhance their operations and drive growth.
 
